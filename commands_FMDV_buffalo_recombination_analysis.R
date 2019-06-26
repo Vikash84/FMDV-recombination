@@ -1,6 +1,14 @@
-# List of commands used to generate files, analyse data etc.
-#$WDIR=/Users/luca/Documents/projects/Preliminary/FMDV_Buffalo
-#$DATADIR=/Users/luca/Documents/projects/Preliminary/FMDV_Buffalo/data
+# List of commands used to generate files, analyse data etc. 
+# for the analysis of sequence data from artificial FMDV infection 
+# experiments in African buffaloes.
+
+# See papers:
+# Maree et al, J. Virol. 2016
+# Ferretti et al, Viruses 2018
+# Cortey et al, J. Virol. 2019
+# Ferretti et al, bioRxiv, https://doi.org/10.1101/271239
+
+# Contains bash preprocessing commands as well.
 
 
 ######################################
